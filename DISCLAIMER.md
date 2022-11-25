@@ -1,6 +1,6 @@
 # DISCLAIMER
-## Borrowed Code
-Most of the code is note mine.
+## Copied Logic
+Most of the logic presented is not mine.
 
-## Deploment
+## Deployment
 Don't deploy this.
